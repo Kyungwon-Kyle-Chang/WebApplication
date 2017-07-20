@@ -6,4 +6,4 @@ wbtn.addEventListener('click', function(){
 bbtn = document.getElementById('black_btn');
 bbtn.addEventListener('click', function(){
   document.getElementById('target').className='black';
-})
+}) 
